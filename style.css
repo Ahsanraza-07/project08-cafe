@@ -328,6 +328,14 @@ border: 2px solid transparent;
     color: #000;
     font-size: 20px;
 }
+.reviews button{
+    width: 150px;
+    height: 40px;
+    font-size: 22px;
+    font-family: sans-serif;
+    background-color: burlywood;
+    border-radius: 20px;
+}
 
 .footer{
     background: #111;
