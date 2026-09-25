@@ -300,7 +300,34 @@ border: 2px solid transparent;
  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
 }
 
+.reviews {
+    text-align: center;
+    padding: 80px 10%;
+    background: #f5f5f5;
+}
 
+.review-container {
+    max-width: 600px;
+    margin: 40px auto;
+}
+
+.review {
+    display: none;
+}
+
+.review.active {
+    display: block;
+}
+
+.review p {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.review span {
+    color: #000;
+    font-size: 20px;
+}
 
 .footer{
     background: #111;
