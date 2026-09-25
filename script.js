@@ -15,3 +15,6 @@ function nextReview() {
 }
 
 setInterval(nextReview, 4000);
+
+
+alert("JavaScript is working!");
